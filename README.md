@@ -1,2 +1,2 @@
-# Data-Analyzer-Tool
-Show data in charts (for biology uses mainly).
+# Alpha Fold
+Change the protein sequence and run.
